@@ -1,0 +1,6 @@
+{
+  "name": "Thắp Nhang Ảo - Bàn Thờ Gia Tiên",
+  "description": "Ứng dụng mô phỏng không gian phòng thờ cổ truyền, thắp nhang khấn vái, hiệu ứng 3 làn khói nhang thủy mặc thanh thoát biến thiên opacity độc lập, khung ảnh phong cách tối giản Nhật Bản, phả đồ hệ trực hệ, quản lý sự kiện và lễ giỗ dòng họ, tích lũy điểm Hiếu Dương.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
